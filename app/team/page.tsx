@@ -123,7 +123,7 @@ const teamSections: Section[] = [
         ],
       },
       {
-        name: "Yassal Arif Butt",
+        name: "Yassal Arif",
         image: "/teamimages/yassal-arif-butt.jpg",
         initials: "YB",
         fields: [
