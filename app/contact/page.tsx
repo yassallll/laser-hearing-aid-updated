@@ -255,7 +255,7 @@ export default function ContactPage() {
 
                   {status === "error" && (
                     <div className="p-4 bg-red-50 border border-red-200 rounded-md text-red-800 text-sm text-center">
-                      Something went wrong. Please try again or email us directly at  yassalarifbutt@gmail.com
+                      Something went wrong. Please try again or email us directly at  projekt-laha@uni-saarland.de
                     </div>
                   )}
 
@@ -291,7 +291,7 @@ export default function ContactPage() {
                         </p>
                         <p className="text-sm">
                           <span className="font-medium">{t("contact.location.research.email")}:</span>{" "}
-                           yassalarifbutt@gmail.com
+                           projekt-laha@uni-saarland.de
                         </p>
                         <p className="text-sm">
                           <span className="font-medium">{t("contact.location.research.hours")}:</span>{" "}
@@ -406,8 +406,8 @@ export default function ContactPage() {
               <p>{t("contact.gdpr.p2")}</p>
               <p>
                 {t("contact.gdpr.p3")}{" "}
-                <a href="mailto: yassalarifbutt@gmail.com" className="text-primary hover:underline">
-                   yassalarifbutt@gmail.com
+                <a href="mailto: projekt-laha@uni-saarland.de" className="text-primary hover:underline">
+                   projekt-laha@uni-saarland.de
                 </a>
               </p>
             </div>
