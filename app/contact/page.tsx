@@ -25,13 +25,13 @@ export default function ContactPage() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          access_key: process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY ?? process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? "",
+          access_key: process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY, // Use your new key
           subject: formData.subject || `[${formData.inquiryType}] Contact from LAHA website`,
           from_name: formData.name,
-          email: process.env.NEXT_PUBLIC_CONTACT_EMAIL,
+          email: process.env.NEXT_PUBLIC_CONTACT_EMAIL, // The recipient
           to: process.env.NEXT_PUBLIC_CONTACT_EMAIL,
           message: `Phone: ${formData.phone || "N/A"}\nInquiry Type: ${formData.inquiryType}\n\nMessage:\n${formData.message}`,
-          replyto: formData.email,
+          reply_to: formData.email,
         }),
       })
       const data = await res.json()
