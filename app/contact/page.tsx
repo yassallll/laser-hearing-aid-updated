@@ -28,7 +28,7 @@ export default function ContactPage() {
           access_key: process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY ?? process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? "",
           subject: formData.subject || `[${formData.inquiryType}] Contact from LAHA website`,
           from_name: formData.name,
-          email: formData.email,
+          email: process.env.NEXT_PUBLIC_CONTACT_EMAIL,
           to: process.env.NEXT_PUBLIC_CONTACT_EMAIL,
           message: `Phone: ${formData.phone || "N/A"}\nInquiry Type: ${formData.inquiryType}\n\nMessage:\n${formData.message}`,
           replyto: formData.email,
