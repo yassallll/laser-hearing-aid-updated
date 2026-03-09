@@ -11,7 +11,7 @@ export default function Header() {
     { name: t("nav.home"), href: "/" },
     { name: t("nav.technology"), href: "/technology" },
     { name: t("nav.products"), href: "/products" },
-    { name: t("nav.about"), href: "/about" },
+    // { name: t("nav.about"), href: "/about" },
     { name: t("nav.team"), href: "/team" },
     { name: t("nav.investors"), href: "/investors" },
     { name: t("nav.contact"), href: "/contact" },
