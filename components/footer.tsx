@@ -34,6 +34,11 @@ export default function Footer() {
                 </a>
               </li>
               <li>
+                <a href="/team" className="hover:text-foreground transition">
+                  {t("footer.team")}
+                </a>
+              </li>
+              <li>
                 <a href="/contact" className="hover:text-foreground transition">
                   {t("footer.contact")}
                 </a>

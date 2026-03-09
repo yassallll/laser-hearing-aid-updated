@@ -414,6 +414,21 @@ const translations = {
       "Alle Informationen auf dieser Website dienen nur zu Bildungs- und Forschungszwecken und ersetzen keine professionelle medizinische Beratung, Diagnose oder Behandlung.",
     "contact.disclaimer.cta": "Forschungsteam kontaktieren",
 
+    // Team Page
+    "nav.team": "Team",
+    "team.hero.title": "Team & Kompetenzen",
+    "team.hero.description":
+      "Unser interdisziplinäres Team vereint Expertise aus Biophysik, Medizin, Ingenieurwesen und Elektrotechnik – gemeinsam entwickeln wir die Zukunft der Hörtechnologie.",
+    "team.category.biophysicists": "Biophysiker",
+    "team.category.doctors": "Ärzte",
+    "team.category.industrialEngineers": "Wirtschaftsingenieure",
+    "team.category.electricalEngineers": "Elektroingenieure",
+    "team.cta.title": "Werden Sie Teil unseres Teams",
+    "team.cta.text":
+      "Interessiert daran, zu Projekt LAHA beizutragen? Wir freuen uns über Anfragen von Forschern, Ingenieuren und medizinischen Fachkräften.",
+    "team.cta.button": "Kontakt aufnehmen",
+    "footer.team": "Team",
+
     // Footer
     "footer.tagline": "Hören neu denken – präzise. schonend. laserbasiert.",
     "footer.quickLinks": "Schnelllinks",
@@ -828,6 +843,21 @@ const translations = {
     "contact.disclaimer.p2":
       "All information on this website is for educational and research purposes only and does not replace professional medical advice, diagnosis, or treatment.",
     "contact.disclaimer.cta": "Contact the research team",
+
+    // Team Page
+    "nav.team": "Team",
+    "team.hero.title": "Team & Skills",
+    "team.hero.description":
+      "Our interdisciplinary team combines expertise in biophysics, medicine, engineering, and electrical engineering – together developing the future of hearing technology.",
+    "team.category.biophysicists": "Biophysicists",
+    "team.category.doctors": "Doctors",
+    "team.category.industrialEngineers": "Industrial Engineers",
+    "team.category.electricalEngineers": "Electrical Engineers",
+    "team.cta.title": "Join Our Team",
+    "team.cta.text":
+      "Interested in contributing to Project LAHA? We welcome inquiries from researchers, engineers, and medical professionals.",
+    "team.cta.button": "Get in Touch",
+    "footer.team": "Team",
 
     // Footer
     "footer.tagline": "Hearing with light",
