@@ -26,13 +26,13 @@ const translations = {
     "home.hero.title": "Hören mit Licht",
     "home.hero.subtitle": "",
     "home.hero.description":
-      "Projekt LAHA entwickelt ein neuartiges, laserbasiertes Hörsystem, das Schall direkt am Trommelfell erzeugt – ohne Lautsprecher, ohne Druckgefühl.",
+      "Projekt LAHA entwickelt ein neuartiges, laserbasiertes Hörsystem, das Schall direkt am Trommelfell erzeugt ohne Lautsprecher, ohne Druckgefühl.",
     "home.hero.cta": "Erfahren Sie mehr über unsere Technologie",
     "home.quote":
-      "Unsere Vision ist es, Hören neu zu definieren – durch eine Technologie, die Präzision und Schonung vereint.",
+      "Unsere Vision ist es, Hören neu zu definieren durch eine Technologie, die Präzision und Schonung vereint.",
     "home.mission.title": "Unsere Mission",
     "home.mission.text":
-      "Menschen mit Hörminderung eine echte Alternative zu klassischen Hörgeräten zu bieten – komfortabel, hautfreundlich und technologisch wegweisend. Projekt LAHA verbindet Medizintechnik, Biophysik und Laserinnovation zu einer Lösung, die Lebensqualität verbessert und neue Maßstäbe in der Audiologie setzt.",
+      "Menschen mit Hörminderung eine echte Alternative zu klassischen Hörgeräten zu bieten komfortabel, hautfreundlich und technologisch wegweisend. Projekt LAHA verbindet Medizintechnik, Biophysik und Laserinnovation zu einer Lösung, die Lebensqualität verbessert und neue Maßstäbe in der Audiologie setzt.",
     "home.benefits.title": "Hauptvorteile",
     "home.benefit1.title": "Präzise Klangübertragung",
     "home.benefit1.text":
@@ -52,30 +52,30 @@ const translations = {
     // Technology Page
     "tech.hero.title": "Revolutionäre Lasertechnologie für das Hören",
     "tech.hero.description":
-      "LAHA stellt einen Durchbruch in der Hörhilfentechnologie dar. Durch fortschrittliche Laserstimulation aktiviert unser Gerät direkt die Strukturen des Mittel- und Innenohrs und umgeht traditionelle Verstärkungsmethoden für ein natürlicheres Hörerlebnis.",
+      "LAHA stellt einen Durchbruch in der Hörhilfentechnologie dar. Durch fortschrittliche Laserstimulation aktiviert unser Gerät direkt die Strukturen des Mittel  und Innenohrs und umgeht traditionelle Verstärkungsmethoden für ein natürlicheres Hörerlebnis.",
     "tech.philosophy.title": "Unsere Innovationsphilosophie",
     "tech.philosophy.text":
       "Wir glauben, dass Hörtechnologie mit Ihrem Körper arbeiten sollte, nicht gegen ihn. Durch die Verwendung von Laserlicht zur Stimulation der natürlichen Strukturen des Ohrs liefert LAHA eine Klangwahrnehmung, die dem natürlichen Hören näher kommt als je zuvor möglich.",
     "tech.how.works.title": "Wie LAHA funktioniert",
     "tech.how.works.subtitle":
       "Die Schlüsseltechnologien, die laserbasiertes Hören möglich machen",
-    "tech.laser.stimulation": "Laser-Stimulation",
+    "tech.laser.stimulation": "Laser Stimulation",
     "tech.laser.desc":
       "Verwendet sicheres, stromsparendes Laserlicht zur direkten Stimulation des Trommelfells und der Mittelohrstrukturen, wodurch mechanische Schwingungen erzeugt werden, die das Innenohr in Schallsignale umwandelt.",
     "tech.bone.conduction": "Integration der Knochenleitung",
     "tech.bone.desc":
       "Kombiniert Laserstimulation mit Knochenleitungswegen und stellt sicher, dass Schall die Cochlea durch mehrere natürliche Wege erreicht, um Klarheit und Wahrnehmung zu verbessern.",
-    "tech.non.invasive": "Nicht-invasives Design",
+    "tech.non.invasive": "Nicht  invasives Design",
     "tech.non.invasive.desc":
       "Vollständig externes Gerät, das keine Operation oder Implantation erfordert. Der Laser wird präzise positioniert, um den optimalen Stimulationspunkt an der Ohranatomie anzusprechen.",
     "tech.digital.processing": "Digitale Signalverarbeitung",
     "tech.digital.desc":
       "Fortschrittliche Algorithmen wandeln akustische Signale in präzise modulierte Laserpulse um und bewahren Frequenzinformationen und Klangeigenschaften während der gesamten Übertragung.",
-    "tech.breakthrough.title": "Der LAHA-Durchbruch",
+    "tech.breakthrough.title": "Der LAHA  Durchbruch",
     "tech.breakthrough.p1":
       "Traditionelle Hörgeräte verstärken Schallwellen durch Luft, was Verzerrungen, Rückkopplungen und ein unnatürliches Hörerlebnis verursachen kann. LAHA verfolgt einen grundlegend anderen Ansatz, indem es Lasertechnologie verwendet, um das Trommelfell und die Gehörknöchelchen (Mittelohrknochen) direkt zu vibrieren und den natürlichen Hörprozess nachzuahmen.",
     "tech.breakthrough.p2":
-      "Dieser Durchbruch ist das Ergebnis jahrelanger Forschung am Universitätsklinikum des Saarlandes, die Expertise in Hals-Nasen-Ohren-Heilkunde, Photonik und biomedizinischer Technik kombiniert. Unser interdisziplinäres Team hat ein Gerät entwickelt, das sowohl wissenschaftlich fortschrittlich als auch praktisch anwendbar ist.",
+      "Dieser Durchbruch ist das Ergebnis jahrelanger Forschung am Universitätsklinikum des Saarlandes, die Expertise in Hals  Nasen  Ohren  Heilkunde, Photonik und biomedizinischer Technik kombiniert. Unser interdisziplinäres Team hat ein Gerät entwickelt, das sowohl wissenschaftlich fortschrittlich als auch praktisch anwendbar ist.",
     "tech.breakthrough.p3":
       "Frühe Tests zeigen, dass Benutzer eine signifikant verbesserte Klangqualität, reduzierte Rückkopplungen und ein natürlicheres Hörgefühl im Vergleich zu herkömmlichen Hörgeräten erleben. Die Technologie ist besonders effektiv bei Schallleitungsschwerhörigkeit und Mittelohrerkrankungen.",
     "tech.research.development": "Forschung & Entwicklung",
@@ -91,15 +91,15 @@ const translations = {
     "tech.focus1":
       "Lasersicherheitsparameter und optimale Wellenlängenauswahl für Ohrstimulation",
     "tech.focus2":
-      "Präzisionsziel-Systeme für genaue Laserpositionierung auf dem Trommelfell",
+      "Präzisionsziel  Systeme für genaue Laserpositionierung auf dem Trommelfell",
     "tech.focus3":
-      "Integration von Laser- und Knochenleitungswegen für hybride Hörlösungen",
+      "Integration von Laser   und Knochenleitungswegen für hybride Hörlösungen",
     "tech.focus4":
-      "Klinische Studien mit Patienten, die unter Schallleitungs- und Schallempfindungsschwerhörigkeit leiden",
+      "Klinische Studien mit Patienten, die unter Schallleitungs   und Schallempfindungsschwerhörigkeit leiden",
     "tech.focus5":
       "Miniaturisierung von Laserkomponenten für komfortables, tragbares Design",
     "tech.focus6":
-      "Langzeit-Wirksamkeitsstudien und Optimierung der Benutzererfahrung",
+      "Langzeit  Wirksamkeitsstudien und Optimierung der Benutzererfahrung",
     "tech.specs.overview": "Technische Übersicht",
     "tech.spec.method": "Stimulationsmethode",
     "tech.spec.method.value": "Klasse 1 Niedrigleistungslaser",
@@ -108,34 +108,34 @@ const translations = {
     "tech.spec.delivery": "Liefersystem",
     "tech.spec.delivery.value": "Laser + Knochenleitung Hybrid",
     "tech.spec.safety": "Sicherheitsklassifizierung",
-    "tech.spec.safety.value": "Nicht-invasiv, CE ausstehend",
+    "tech.spec.safety.value": "Nicht  invasiv, CE ausstehend",
     "tech.spec.processing": "Klangverarbeitung",
     "tech.spec.processing.value": "Digitalsignal zu Lasermodulation",
     "tech.spec.application": "Anwendung",
     "tech.spec.application.value":
-      "Schallleitungs- & gemischte Schwerhörigkeit",
+      "Schallleitungs   & gemischte Schwerhörigkeit",
     "tech.spec.design": "Design",
     "tech.spec.design.value": "Externes tragbares Gerät",
     "tech.spec.phase": "Entwicklungsphase",
     "tech.spec.phase.value": "Klinische Forschungsphase",
     "tech.regulatory.title": "Regulatorischer Status & Compliance",
     "tech.regulatory.text":
-      "Als Medizinprodukt in der Entwicklung durchläuft LAHA strenge Sicherheits- und Wirksamkeitstests, die für die behördliche Zulassung erforderlich sind. Wir halten uns an alle anwendbaren Medizinproduktestandards und -vorschriften.",
-    "tech.cert1": "CE-Kennzeichnung (in Bearbeitung)",
+      "Als Medizinprodukt in der Entwicklung durchläuft LAHA strenge Sicherheits   und Wirksamkeitstests, die für die behördliche Zulassung erforderlich sind. Wir halten uns an alle anwendbaren Medizinproduktestandards und   vorschriften.",
+    "tech.cert1": "CE  Kennzeichnung (in Bearbeitung)",
     "tech.cert2": "ISO 13485 konform",
     "tech.cert3": "Klinische Studienphase",
     "tech.cert4": "Akademische Forschung genehmigt",
     "tech.disclaimer.strong": "Medizinischer Haftungsausschluss:",
     "tech.disclaimer.content":
-      "Die Laser-Hörhilfe (LAHA) befindet sich derzeit in der Entwicklung und ist noch nicht kommerziell erhältlich oder für den klinischen Einsatz zugelassen. Die bereitgestellten Informationen dienen ausschließlich Bildungs- und Forschungszwecken und ersetzen keine professionelle medizinische Beratung.",
+      "Die Laser  Hörhilfe (LAHA) befindet sich derzeit in der Entwicklung und ist noch nicht kommerziell erhältlich oder für den klinischen Einsatz zugelassen. Die bereitgestellten Informationen dienen ausschließlich Bildungs   und Forschungszwecken und ersetzen keine professionelle medizinische Beratung.",
     "tech.cta.journey": "Begleiten Sie unsere Forschungsreise",
     "tech.cta.interested":
-      "Interessiert an der Teilnahme an klinischen Studien oder möchten Sie mehr über die LAHA-Technologie erfahren? Kontaktieren Sie unser Forschungsteam, um Möglichkeiten zur Zusammenarbeit und Beteiligung zu erkunden.",
+      "Interessiert an der Teilnahme an klinischen Studien oder möchten Sie mehr über die LAHA  Technologie erfahren? Kontaktieren Sie unser Forschungsteam, um Möglichkeiten zur Zusammenarbeit und Beteiligung zu erkunden.",
     "tech.cta.contact": "Forschungsteam kontaktieren",
     "tech.cta.team": "Erfahren Sie mehr über unser Team",
 
     // Products Page
-    "products.hero.title": "Laser-Hörhilfe-System",
+    "products.hero.title": "Laser  Hörhilfe  System",
     "products.hero.subtitle": "In Entwicklung",
     "products.hero.description":
       "Ein laserbasiertes Hörsystem, das Schall direkt am Trommelfell erzeugt – präzise, komfortabel und schonend für empfindliche Ohren.",
@@ -146,7 +146,7 @@ const translations = {
     "products.status.next.text": "Tragbarer, batteriebetriebener Prototyp",
     "products.what.title": "Was macht es besonders",
     "products.feature1":
-      "Einzigartige, patentierte Laser-Technologie zur direkten Schallerzeugung",
+      "Einzigartige, patentierte Laser  Technologie zur direkten Schallerzeugung",
     "products.feature2":
       "Kein Lautsprecher im Gehörgang → maximaler Tragekomfort",
     "products.feature3":
@@ -163,10 +163,10 @@ const translations = {
     "products.specs.title": "Technische Daten",
     "products.disclaimer.title": "Medizinischer Hinweis",
     "products.disclaimer.text":
-      "Das LAHA-System ist ein Forschungsprototyp in der Entwicklung. Es ist noch nicht CE-zertifiziert oder für den kommerziellen Einsatz zugelassen. Alle Spezifikationen sind vorläufig und können sich ändern.",
+      "Das LAHA  System ist ein Forschungsprototyp in der Entwicklung. Es ist noch nicht CE  zertifiziert oder für den kommerziellen Einsatz zugelassen. Alle Spezifikationen sind vorläufig und können sich ändern.",
     "products.cert.title": "Regulatorischer Status",
     "products.cert1": "Patent: Light activated hearing device (WO2010086453A1)",
-    "products.cert2": "CE-Zertifizierung in Vorbereitung",
+    "products.cert2": "CE  Zertifizierung in Vorbereitung",
     "products.cert3": "Qualitätsmanagementsystem nach ISO 13485",
     "products.cta.title": "Mehr erfahren?",
     "products.cta.button": "Beratungsgespräch vereinbaren",
@@ -174,17 +174,17 @@ const translations = {
     // About Page
     "about.hero.title": "Über Projekt LAHA",
     "about.hero.description":
-      "Projekt LAHA – Laser-Hörhilfen ist eine bahnbrechende Forschungsinitiative am Universitätsklinikum des Saarlandes, die eine revolutionäre laserbasierte Hörhilfe entwickelt, die das Trommelfell und die Mittelohrstrukturen direkt stimuliert. Wir sind Pioniere der Zukunft der Hörtechnologie durch innovative Forschung und Medizinprodukteentwicklung.",
+      "Projekt LAHA – Laser  Hörhilfen ist eine bahnbrechende Forschungsinitiative am Universitätsklinikum des Saarlandes, die eine revolutionäre laserbasierte Hörhilfe entwickelt, die das Trommelfell und die Mittelohrstrukturen direkt stimuliert. Wir sind Pioniere der Zukunft der Hörtechnologie durch innovative Forschung und Medizinprodukteentwicklung.",
     "about.mission.title": "Unsere Mission",
     "about.mission.text":
-      "Die Hörhilfentechnologie zu revolutionieren, indem wir eine nicht-invasive, laserbasierte Lösung entwickeln, die überlegene Klangqualität, erhöhten Komfort und eine verbesserte Benutzererfahrung für Menschen mit Hörverlust bietet.",
+      "Die Hörhilfentechnologie zu revolutionieren, indem wir eine nicht  invasive, laserbasierte Lösung entwickeln, die überlegene Klangqualität, erhöhten Komfort und eine verbesserte Benutzererfahrung für Menschen mit Hörverlust bietet.",
     "about.story.title": "Unsere Geschichte",
     "about.story.p1":
       "Projekt LAHA wurde am Universitätsklinikum des Saarlandes ins Leben gerufen, wo ein Team engagierter Forscher und medizinischer Fachkräfte die Grenzen konventioneller Hörgeräte erkannte. Traditionelle Geräte verlassen sich auf externe Mikrofone und Lautsprecher, die unbequem, sichtbar und anfällig für Umgebungseinflüsse sein können. Wir haben uns eine bessere Lösung vorgestellt – eine, die Lasertechnologie nutzt, um das Trommelfell und die Mittelohrstrukturen direkt zu stimulieren.",
     "about.story.p2":
-      "Unsere Forschung konzentrierte sich auf die Entwicklung eines Prototyp-Geräts, das Schallwellen über Laserlicht überträgt und traditionelle akustische Transduktionsmethoden umgeht. Dieser innovative Ansatz bietet das Potenzial für klarere Klangqualität, verbesserte Spracherkennung in lauten Umgebungen und eine diskretere, komfortablere Benutzererfahrung. Derzeit führen wir erste Tests durch und arbeiten auf klinische Studien für die behördliche Zulassung hin.",
+      "Unsere Forschung konzentrierte sich auf die Entwicklung eines Prototyp  Geräts, das Schallwellen über Laserlicht überträgt und traditionelle akustische Transduktionsmethoden umgeht. Dieser innovative Ansatz bietet das Potenzial für klarere Klangqualität, verbesserte Spracherkennung in lauten Umgebungen und eine diskretere, komfortablere Benutzererfahrung. Derzeit führen wir erste Tests durch und arbeiten auf klinische Studien für die behördliche Zulassung hin.",
     "about.story.p3":
-      "Mit Sitz in Homburg, Saar, Deutschland, vereint unser Team Fachkenntnisse in Hals-Nasen-Ohren-Heilkunde, biomedizinischer Technik und Medizinprodukteentwicklung. Wir sind strengen Forschungsstandards, regulatorischer Compliance und letztendlich der Bereitstellung dieser revolutionären Technologie für Patienten verpflichtet, die sie am meisten benötigen. Obwohl die Laser-Hörhilfe noch in der Entwicklung und noch nicht kommerziell erhältlich ist, sind wir bestrebt, diese Technologie durch alle Phasen der Forschung, Tests und Zertifizierung voranzutreiben.",
+      "Mit Sitz in Homburg, Saar, Deutschland, vereint unser Team Fachkenntnisse in Hals  Nasen  Ohren  Heilkunde, biomedizinischer Technik und Medizinprodukteentwicklung. Wir sind strengen Forschungsstandards, regulatorischer Compliance und letztendlich der Bereitstellung dieser revolutionären Technologie für Patienten verpflichtet, die sie am meisten benötigen. Obwohl die Laser  Hörhilfe noch in der Entwicklung und noch nicht kommerziell erhältlich ist, sind wir bestrebt, diese Technologie durch alle Phasen der Forschung, Tests und Zertifizierung voranzutreiben.",
     "about.values.title": "Unsere Werte",
     "about.values.subtitle":
       "Die Prinzipien, die unsere Forschung und Entwicklung leiten",
@@ -204,8 +204,8 @@ const translations = {
     "about.location.address1": "Kirrbergerstr. Gebäude 6",
     "about.location.address2": "66421 Homburg / Saar, Deutschland",
     "about.location.phone": "Telefon",
-    "about.location.email": "E-Mail",
-    "about.location.project.email": "Projekt E-Mail",
+    "about.location.email": "E  Mail",
+    "about.location.project.email": "Projekt E  Mail",
     "about.location.hours": "Arbeitszeiten",
     "about.location.hours.text": "Montag – Freitag, 09:00 – 17:00 MEZ",
     "about.location.note":
@@ -216,30 +216,30 @@ const translations = {
       "Forschung begann am Universitätsklinikum des Saarlandes zur Erforschung laserbasierter Hörhilfenkonzepte",
     "about.timeline.2022.title": "Prototypenentwicklung",
     "about.timeline.2022.desc":
-      "Erster funktionaler Laser-Hörhilfen-Prototyp entwickelt und erste Labortests durchgeführt",
+      "Erster funktionaler Laser  Hörhilfen  Prototyp entwickelt und erste Labortests durchgeführt",
     "about.timeline.2024.title": "Forschungsfortschritt",
     "about.timeline.2024.desc":
-      "Verfeinertes Prototyp-Design, Einleitung der regulatorischen Compliance-Planung für CE-Zertifizierung",
+      "Verfeinertes Prototyp  Design, Einleitung der regulatorischen Compliance  Planung für CE  Zertifizierung",
     "about.timeline.2025.title": "Vorbereitung klinischer Studien",
     "about.timeline.2025.desc":
-      "Vorbereitung auf klinische Studien und Arbeit an Medizinprodukte-Zertifizierung und -Zulassung",
+      "Vorbereitung auf klinische Studien und Arbeit an Medizinprodukte  Zertifizierung und   Zulassung",
     "about.cta.title": "Werden Sie Teil unserer Forschungsreise",
     "about.cta.text":
-      "Interessiert daran, mehr über unsere Laser-Hörhilfen-Technologie zu erfahren oder mit unserem Forschungsteam zusammenzuarbeiten? Kontaktieren Sie uns noch heute.",
+      "Interessiert daran, mehr über unsere Laser  Hörhilfen  Technologie zu erfahren oder mit unserem Forschungsteam zusammenzuarbeiten? Kontaktieren Sie uns noch heute.",
     "about.cta.button1": "Kontaktieren Sie uns",
     "about.cta.button2": "Erfahren Sie mehr über unsere Technologie",
 
     // Investors Page
-    "investors.hero.title": "Forschungs- & Investmentmöglichkeit",
+    "investors.hero.title": "Forschungs   & Investmentmöglichkeit",
     "investors.hero.description":
       "Projekt LAHA repräsentiert einen bahnbrechenden Ansatz zur Hörwiederherstellung durch Lasertechnologie. Als universitätsbasierte Forschungsinitiative am Universitätsklinikum des Saarlandes entwickeln wir das weltweit erste laserbasierte Hörhilfensystem.",
-    "investors.highlights.title": "Projekt-Highlights",
+    "investors.highlights.title": "Projekt  Highlights",
     "investors.highlight1.label": "Forschungsphase",
     "investors.highlight1.value": "Fortgeschritten",
-    "investors.highlight1.period": "Prototyp-Entwicklung",
+    "investors.highlight1.period": "Prototyp  Entwicklung",
     "investors.highlight2.label": "Technologie",
     "investors.highlight2.value": "Neuartig",
-    "investors.highlight2.period": "Laser-Stimulation",
+    "investors.highlight2.period": "Laser  Stimulation",
     "investors.highlight3.label": "Zielmarkt",
     "investors.highlight3.value": "€10Mrd+",
     "investors.highlight3.period": "Globale Hörhilfen",
@@ -247,43 +247,43 @@ const translations = {
     "investors.highlight4.value": "Weltweit Erste",
     "investors.highlight4.period": "Laserbasiertes System",
     "investors.opportunities.title":
-      "Investment- & Partnerschaftsmöglichkeiten",
+      "Investment   & Partnerschaftsmöglichkeiten",
     "investors.opp1.title": "Wachsender Weltmarkt",
     "investors.opp1.desc":
       "Der globale Hörhilfenmarkt wird voraussichtlich €10 Milliarden überschreiten, angetrieben durch alternde Bevölkerungen und zunehmendes Bewusstsein für Hörgesundheit. Projekt LAHA bietet eine revolutionäre Alternative zu traditionellen akustischen Geräten.",
-    "investors.opp2.title": "Durchbruch-Technologie",
+    "investors.opp2.title": "Durchbruch  Technologie",
     "investors.opp2.desc":
-      "Unsere proprietäre Laser-Stimulationstechnologie bringt das Trommelfell und die Mittelohrstrukturen direkt in Schwingung und umgeht die Einschränkungen konventioneller Hörgeräte. Dies stellt einen Paradigmenwechsel in der Hörwiederherstellung dar.",
+      "Unsere proprietäre Laser  Stimulationstechnologie bringt das Trommelfell und die Mittelohrstrukturen direkt in Schwingung und umgeht die Einschränkungen konventioneller Hörgeräte. Dies stellt einen Paradigmenwechsel in der Hörwiederherstellung dar.",
     "investors.opp3.title": "Starke akademische Grundlage",
     "investors.opp3.desc":
       "Mit Sitz am Universitätsklinikum des Saarlandes kombiniert unsere Forschung modernste biomedizinische Technik mit klinischer Expertise. Wir profitieren von erstklassigen Einrichtungen und erfahrenen Forschungsteams.",
     "investors.opp4.title": "Klarer Weg zum Markt",
     "investors.opp4.desc":
-      "Wir durchlaufen systematische Entwicklungsphasen in Richtung CE-Zertifizierung und klinischer Studien. Strategische Partnerschaften können die Kommerzialisierung beschleunigen und diese Innovation weltweit zu Patienten bringen.",
+      "Wir durchlaufen systematische Entwicklungsphasen in Richtung CE  Zertifizierung und klinischer Studien. Strategische Partnerschaften können die Kommerzialisierung beschleunigen und diese Innovation weltweit zu Patienten bringen.",
     "investors.status.title": "Aktueller Entwicklungsstand",
     "investors.status.project": "Projektinformationen",
     "investors.status.institution": "Institution",
     "investors.status.institution.value": "Universitätsklinikum des Saarlandes",
     "investors.status.project.name": "Projektname",
-    "investors.status.project.value": "LAHA - Laser Hörhilfen",
+    "investors.status.project.value": "LAHA    Laser Hörhilfen",
     "investors.status.technology": "Technologie",
-    "investors.status.technology.value": "Laser-Stimulationssystem",
+    "investors.status.technology.value": "Laser  Stimulationssystem",
     "investors.status.category": "Kategorie",
-    "investors.status.category.value": "Medizinprodukt-Forschung",
+    "investors.status.category.value": "Medizinprodukt  Forschung",
     "investors.status.development": "Entwicklungsphase",
     "investors.status.current": "Aktuelle Phase",
-    "investors.status.current.value": "Prototyp-Entwicklung",
+    "investors.status.current.value": "Prototyp  Entwicklung",
     "investors.status.next": "Nächster Meilenstein",
     "investors.status.next.value": "Präklinische Tests",
     "investors.status.target": "Ziel",
-    "investors.status.target.value": "CE-Zertifizierung",
+    "investors.status.target.value": "CE  Zertifizierung",
     "investors.status.timeline": "Zeitplan",
-    "investors.status.timeline.value": "2025-2027",
+    "investors.status.timeline.value": "2025  2027",
     "investors.status.note":
-      "Hinweis: Projekt LAHA befindet sich derzeit in der Forschungs- und Entwicklungsphase. Noch nicht kommerziell verfügbar oder klinisch zugelassen.",
-    "investors.governance.title": "Forschungs-Governance",
+      "Hinweis: Projekt LAHA befindet sich derzeit in der Forschungs   und Entwicklungsphase. Noch nicht kommerziell verfügbar oder klinisch zugelassen.",
+    "investors.governance.title": "Forschungs  Governance",
     "investors.governance.description":
-      "Projekt LAHA arbeitet nach den strengen ethischen und wissenschaftlichen Standards des Universitätsklinikums des Saarlandes. Wir sind der Transparenz, Forschungsintegrität und Einhaltung der EU-Medizinprodukteverordnungen verpflichtet.",
+      "Projekt LAHA arbeitet nach den strengen ethischen und wissenschaftlichen Standards des Universitätsklinikums des Saarlandes. Wir sind der Transparenz, Forschungsintegrität und Einhaltung der EU  Medizinprodukteverordnungen verpflichtet.",
     "investors.governance1.title": "Ethikkommission",
     "investors.governance1.desc":
       "Alle Forschungsaktivitäten werden von der institutionellen Ethikkommission überprüft und genehmigt, um Patientensicherheit und Forschungsintegrität zu gewährleisten.",
@@ -292,51 +292,51 @@ const translations = {
       "Wir folgen den ISO 13485 Qualitätsmanagementsystemen für die Entwicklung und Herstellung von Medizinprodukten.",
     "investors.governance3.title": "Regulatorische Compliance",
     "investors.governance3.desc":
-      "Entwicklungsfahrplan abgestimmt auf die Anforderungen der EU-Medizinprodukteverordnung (MDR) für CE-Kennzeichnung und Marktzulassung.",
+      "Entwicklungsfahrplan abgestimmt auf die Anforderungen der EU  Medizinprodukteverordnung (MDR) für CE  Kennzeichnung und Marktzulassung.",
     "investors.events.title": "Forschungspräsentationen & Veranstaltungen",
-    "investors.event1.title": "Internationale Hörtechnologie-Konferenz 2025",
+    "investors.event1.title": "Internationale Hörtechnologie  Konferenz 2025",
     "investors.event1.date": "Geplant für Q3 2025",
     "investors.event1.desc":
-      "Präsentation vorläufiger Ergebnisse und Prototyp-Demonstration auf führender internationaler Konferenz zur Hörwiederherstellungstechnologie.",
-    "investors.event2.title": "Investor- & Partner-Informationssitzungen",
+      "Präsentation vorläufiger Ergebnisse und Prototyp  Demonstration auf führender internationaler Konferenz zur Hörwiederherstellungstechnologie.",
+    "investors.event2.title": "Investor   & Partner  Informationssitzungen",
     "investors.event2.date": "Nach Vereinbarung",
     "investors.event2.desc":
-      "Private Präsentationen für potenzielle Forschungspartner, Investoren und Gesundheitseinrichtungen, die an der LAHA-Technologieplattform interessiert sind.",
+      "Private Präsentationen für potenzielle Forschungspartner, Investoren und Gesundheitseinrichtungen, die an der LAHA  Technologieplattform interessiert sind.",
     "investors.event3.title": "Akademische Publikationen & Symposien",
     "investors.event3.date": "Laufend",
     "investors.event3.desc":
-      "Regelmäßige Veröffentlichung von Forschungsergebnissen in peer-reviewed Zeitschriften und Präsentationen auf wissenschaftlichen Konferenzen, um Fortschritte mit der medizinischen Gemeinschaft zu teilen.",
-    "investors.contact.title": "Partnerschafts- & Investitionsanfragen",
+      "Regelmäßige Veröffentlichung von Forschungsergebnissen in peer  reviewed Zeitschriften und Präsentationen auf wissenschaftlichen Konferenzen, um Fortschritte mit der medizinischen Gemeinschaft zu teilen.",
+    "investors.contact.title": "Partnerschafts   & Investitionsanfragen",
     "investors.contact.description":
       "Für Partnerschaftsmöglichkeiten, Investitionsanfragen oder detaillierte Projektinformationen kontaktieren Sie bitte unser Forschungskoordinierungsteam.",
-    "investors.contact.email": "E-Mail",
+    "investors.contact.email": "E  Mail",
     "investors.contact.phone": "Telefon",
     "investors.contact.location": "Standort",
     "investors.contact.location.value": "Homburg, Deutschland",
     "investors.contact.hours":
       "Arbeitszeiten: Montag – Freitag, 09:00 – 17:00 MEZ",
     "investors.contact.note":
-      "(Forschung & Prototyp-Entwicklung, nur nach Vereinbarung)",
+      "(Forschung & Prototyp  Entwicklung, nur nach Vereinbarung)",
 
     // Contact Page
     "contact.hero.title": "Kontakt Projekt LAHA",
     "contact.hero.description":
-      "Haben Sie Fragen zu unserer Laser-Hörgeräte-Forschung? Wir sind hier, um mit Forschern, potenziellen Partnern und Interessenten in Kontakt zu treten.",
+      "Haben Sie Fragen zu unserer Laser  Hörgeräte  Forschung? Wir sind hier, um mit Forschern, potenziellen Partnern und Interessenten in Kontakt zu treten.",
     "contact.methods.research.title": "Forschungsanfragen",
-    "contact.methods.research.email": "E-Mail: projekt-laha@uni-saarland.de",
-    "contact.methods.research.hours": "Mo-Fr: 09:00 - 17:00 MEZ",
+    "contact.methods.research.email": "E  Mail: projekt  laha@uni  saarland.de",
+    "contact.methods.research.hours": "Mo  Fr: 09:00    17:00 MEZ",
     "contact.methods.research.type": "Forschung & Entwicklung",
     "contact.methods.direct.title": "Direkter Kontakt",
     "contact.methods.direct.phone": "Telefon: +49 (0) 6841 / 1612901",
-    "contact.methods.direct.hours": "Mo-Fr: 09:00 - 17:00 MEZ",
-    "contact.methods.direct.email": "E-Mail: Larissa.Schatteburg@uks.eu",
+    "contact.methods.direct.hours": "Mo  Fr: 09:00    17:00 MEZ",
+    "contact.methods.direct.email": "E  Mail: Larissa.Schatteburg@uks.eu",
     "contact.methods.partnership.title": "Partnerschaft",
-    "contact.methods.partnership.email": "E-Mail: projekt-laha@uni-saarland.de",
+    "contact.methods.partnership.email": "E  Mail: projekt  laha@uni  saarland.de",
     "contact.methods.partnership.hours": "Nur nach Vereinbarung",
     "contact.methods.partnership.type": "Kooperationsmöglichkeiten",
     "contact.form.title": "Senden Sie uns eine Nachricht",
     "contact.form.description":
-      "Füllen Sie das untenstehende Formular aus und wir werden uns innerhalb von 1-2 Werktagen bei Ihnen melden",
+      "Füllen Sie das untenstehende Formular aus und wir werden uns innerhalb von 1  2 Werktagen bei Ihnen melden",
     "contact.form.inquiryType": "Art der Anfrage",
     "contact.form.inquiryType.general": "Allgemeine Anfrage",
     "contact.form.inquiryType.research": "Forschungszusammenarbeit",
@@ -345,36 +345,36 @@ const translations = {
     "contact.form.inquiryType.technical": "Technische Fragen",
     "contact.form.inquiryType.investor": "Investitionsinteresse",
     "contact.form.name": "Vollständiger Name",
-    "contact.form.email": "E-Mail-Adresse",
+    "contact.form.email": "E  Mail  Adresse",
     "contact.form.phone": "Telefonnummer",
     "contact.form.subject": "Betreff",
     "contact.form.message": "Nachricht",
     "contact.form.submit": "Nachricht senden",
     "contact.form.gdpr":
-      "Mit dem Absenden dieses Formulars stimmen Sie unserer DSGVO-konformen Datenschutzerklärung zu",
+      "Mit dem Absenden dieses Formulars stimmen Sie unserer DSGVO  konformen Datenschutzerklärung zu",
     "contact.location.title": "Unser Standort",
     "contact.location.research.title": "Forschungszentrum",
     "contact.location.research.badge": "Hauptbüro",
-    "contact.location.research.name": "Projekt LAHA – Laser-Hörgeräte",
+    "contact.location.research.name": "Projekt LAHA – Laser  Hörgeräte",
     "contact.location.research.hospital": "Universitätsklinikum des Saarlandes",
     "contact.location.research.building": "Kirrbergerstr. Gebäude 6",
     "contact.location.research.postal": "66421 Homburg / Saar",
     "contact.location.research.country": "Deutschland",
     "contact.location.research.phone": "Telefon",
-    "contact.location.research.email": "E-Mail",
+    "contact.location.research.email": "E  Mail",
     "contact.location.research.hours": "Öffnungszeiten",
     "contact.location.research.hoursValue":
-      "Montag - Freitag, 09:00 - 17:00 MEZ",
+      "Montag    Freitag, 09:00    17:00 MEZ",
     "contact.location.lead.title": "Projektleitung Kontakt",
-    "contact.location.lead.email": "E-Mail",
+    "contact.location.lead.email": "E  Mail",
     "contact.location.lead.phone": "Telefon",
     "contact.location.lead.note":
       "Für Forschungskooperationen und Partnerschaftsanfragen",
     "contact.location.social.title": "Verbinden Sie sich mit uns (Demnächst)",
-    "contact.location.social.linkedin": "LinkedIn - Projekt-Updates",
+    "contact.location.social.linkedin": "LinkedIn    Projekt  Updates",
     "contact.location.social.researchgate":
-      "ResearchGate - Wissenschaftliche Veröffentlichungen",
-    "contact.location.social.youtube": "YouTube - Erklärvideos",
+      "ResearchGate    Wissenschaftliche Veröffentlichungen",
+    "contact.location.social.youtube": "YouTube    Erklärvideos",
     "contact.location.map.title": "Universitätsklinikum des Saarlandes",
     "contact.location.map.subtitle": "Homburg / Saar, Deutschland",
     "contact.location.map.link": "Auf Google Maps anzeigen →",
@@ -383,35 +383,35 @@ const translations = {
       "Schnelle Antworten auf häufige Fragen zu Projekt LAHA",
     "contact.faq.q1.question": "Was sind Ihre Arbeitszeiten?",
     "contact.faq.q1.answer":
-      "Unser Forschungsteam ist von Montag bis Freitag von 09:00 bis 17:00 Uhr MEZ erreichbar. Für Anfragen außerhalb dieser Zeiten senden Sie bitte eine E-Mail und wir werden innerhalb von 1-2 Werktagen antworten.",
+      "Unser Forschungsteam ist von Montag bis Freitag von 09:00 bis 17:00 Uhr MEZ erreichbar. Für Anfragen außerhalb dieser Zeiten senden Sie bitte eine E  Mail und wir werden innerhalb von 1  2 Werktagen antworten.",
     "contact.faq.q2.question":
       "Wie kann ich Ihre Forschungseinrichtung besuchen?",
     "contact.faq.q2.answer":
-      "Besuche unserer Forschungseinrichtung am Universitätsklinikum des Saarlandes sind nur nach Vereinbarung möglich. Bitte kontaktieren Sie uns per E-Mail, um einen Besuch für Forschungskooperationen oder Partnergespräche zu vereinbaren.",
-    "contact.faq.q3.question": "Ist das Laser-Hörgerät zum Kauf erhältlich?",
+      "Besuche unserer Forschungseinrichtung am Universitätsklinikum des Saarlandes sind nur nach Vereinbarung möglich. Bitte kontaktieren Sie uns per E  Mail, um einen Besuch für Forschungskooperationen oder Partnergespräche zu vereinbaren.",
+    "contact.faq.q3.question": "Ist das Laser  Hörgerät zum Kauf erhältlich?",
     "contact.faq.q3.answer":
-      "Nein, das LAHA-System befindet sich derzeit in der Forschungs- und Entwicklungsphase. Es ist noch nicht kommerziell erhältlich oder für die klinische Anwendung zugelassen. Wir werden unsere Website aktualisieren, sobald wir Fortschritte in Richtung CE-Zertifizierung und Marktverfügbarkeit machen.",
+      "Nein, das LAHA  System befindet sich derzeit in der Forschungs   und Entwicklungsphase. Es ist noch nicht kommerziell erhältlich oder für die klinische Anwendung zugelassen. Wir werden unsere Website aktualisieren, sobald wir Fortschritte in Richtung CE  Zertifizierung und Marktverfügbarkeit machen.",
     "contact.faq.q4.question": "Wie kann ich an dieser Forschung mitarbeiten?",
     "contact.faq.q4.answer":
-      "Wir begrüßen Anfragen zur Zusammenarbeit von akademischen Einrichtungen, Forschungsorganisationen und Industriepartnern. Bitte kontaktieren Sie uns unter projekt-laha@uni-saarland.de mit Details zu Ihren Interessen und Fachkenntnissen.",
+      "Wir begrüßen Anfragen zur Zusammenarbeit von akademischen Einrichtungen, Forschungsorganisationen und Industriepartnern. Bitte kontaktieren Sie uns unter projekt  laha@uni  saarland.de mit Details zu Ihren Interessen und Fachkenntnissen.",
     "contact.faq.q5.question":
       "Bieten Sie Unterstützung in anderen Sprachen als Englisch und Deutsch an?",
     "contact.faq.q5.answer":
       "Derzeit sind unsere primären Kommunikationssprachen Englisch und Deutsch. Für Anfragen in anderen Sprachen kontaktieren Sie uns bitte und wir werden unser Bestes tun, um Ihre Bedürfnisse zu erfüllen.",
     "contact.gdpr.title": "Datenschutz & Privatsphäre",
     "contact.gdpr.description":
-      "Wir halten uns an die Datenschutz-Grundverordnung (DSGVO) der Europäischen Union",
+      "Wir halten uns an die Datenschutz  Grundverordnung (DSGVO) der Europäischen Union",
     "contact.gdpr.p1":
-      "Personenbezogene Daten (z. B. Namen, E-Mail-Adressen), die über Kontaktformulare erfasst werden, werden nur für die Kommunikation im Zusammenhang mit Projekt LAHA verwendet und nicht an Dritte weitergegeben.",
+      "Personenbezogene Daten (z. B. Namen, E  Mail  Adressen), die über Kontaktformulare erfasst werden, werden nur für die Kommunikation im Zusammenhang mit Projekt LAHA verwendet und nicht an Dritte weitergegeben.",
     "contact.gdpr.p2":
-      'Wir befolgen das Prinzip der "Datenminimierung" und verwenden nur notwendige Cookies (kein Tracking ohne Einwilligung). Unsere Website wird auf EU-basierten Servern für Compliance und Sicherheit gehostet.',
+      'Wir befolgen das Prinzip der "Datenminimierung" und verwenden nur notwendige Cookies (kein Tracking ohne Einwilligung). Unsere Website wird auf EU  basierten Servern für Compliance und Sicherheit gehostet.',
     "contact.gdpr.p3":
-      "Sie können jederzeit die Löschung Ihrer Daten anfordern, indem Sie eine E-Mail an",
+      "Sie können jederzeit die Löschung Ihrer Daten anfordern, indem Sie eine E  Mail an",
     "contact.disclaimer.title": "Medizinischer Haftungsausschluss",
     "contact.disclaimer.p1":
-      "Das Laser-Hörgerät (LAHA) ist ein medizinisches Gerät, das sich derzeit in der Entwicklung befindet. Es ist noch nicht kommerziell erhältlich oder für die klinische Anwendung zugelassen.",
+      "Das Laser  Hörgerät (LAHA) ist ein medizinisches Gerät, das sich derzeit in der Entwicklung befindet. Es ist noch nicht kommerziell erhältlich oder für die klinische Anwendung zugelassen.",
     "contact.disclaimer.p2":
-      "Alle Informationen auf dieser Website dienen nur zu Bildungs- und Forschungszwecken und ersetzen keine professionelle medizinische Beratung, Diagnose oder Behandlung.",
+      "Alle Informationen auf dieser Website dienen nur zu Bildungs   und Forschungszwecken und ersetzen keine professionelle medizinische Beratung, Diagnose oder Behandlung.",
     "contact.disclaimer.cta": "Forschungsteam kontaktieren",
 
     // Team Page
@@ -442,7 +442,7 @@ const translations = {
     "footer.support": "Unterstützung",
     "footer.contactTitle": "Kontakt",
     "footer.copyright":
-      "Project LAHA – Laser-Hörhilfen. Alle Rechte vorbehalten.",
+      "Project LAHA – Laser  Hörhilfen. Alle Rechte vorbehalten.",
   },
 
   // English must match German keys exactly:
@@ -459,22 +459,22 @@ const translations = {
     "home.hero.title": "Hearing with light",
     "home.hero.subtitle": "",
     "home.hero.description":
-      "Project LAHA develops a novel laser-based hearing system that generates sound directly at the eardrum—without a speaker or pressure in the ear canal.",
+      "Project LAHA develops a novel laser  based hearing system that generates sound directly at the eardrum—without a speaker or pressure in the ear canal.",
     "home.hero.cta": "Learn About Our Technology",
     "home.quote":
       "Our vision is to redefine hearing by merging precision with gentleness.",
     "home.mission.title": "Our Mission",
     "home.mission.text":
-      "To offer people with hearing impairments a truly innovative alternative to traditional hearing aids—comfortable, skin-friendly, and technologically groundbreaking. Project LAHA combines medical technology, biophysics, and laser innovation to enhance quality of life and set new standards in audiology.",
+      "To offer people with hearing impairments a truly innovative alternative to traditional hearing aids—comfortable, skin  friendly, and technologically groundbreaking. Project LAHA combines medical technology, biophysics, and laser innovation to enhance quality of life and set new standards in audiology.",
     "home.benefits.title": "Key Benefits",
     "home.benefit1.title": "Precise Sound Transmission",
     "home.benefit1.text":
       "Direct sound generation at the eardrum for natural hearing",
     "home.benefit2.title": "No Speaker Design",
     "home.benefit2.text": "No pressure, no irritation—maximum comfort",
-    "home.benefit3.title": "Feedback-Free",
+    "home.benefit3.title": "Feedback  Free",
     "home.benefit3.text": "Laser technology eliminates acoustic feedback",
-    "home.benefit4.title": "Gentle & Skin-Friendly",
+    "home.benefit4.title": "Gentle & Skin  Friendly",
     "home.benefit4.text": "Suitable for sensitive ear canals",
     "home.cta.title": "Interested in Our Research?",
     "home.cta.text":
@@ -484,20 +484,20 @@ const translations = {
     // Technology Page (aligned to DE structure)
     "tech.hero.title": "Revolutionary Laser Technology for Hearing",
     "tech.hero.description":
-      "LAHA represents a breakthrough in hearing-assistive technology. By using advanced laser stimulation, our device directly activates middle-ear structures and bypasses traditional amplification methods for a more natural listening experience.",
+      "LAHA represents a breakthrough in hearing  assistive technology. By using advanced laser stimulation, our device directly activates middle  ear structures and bypasses traditional amplification methods for a more natural listening experience.",
     "tech.philosophy.title": "Our Innovation Philosophy",
     "tech.philosophy.text":
       "We believe hearing technology should work with your body, not against it. By using laser light to stimulate the ear’s natural structures, LAHA delivers sound perception closer to natural hearing than previously possible.",
     "tech.how.works.title": "How LAHA Works",
     "tech.how.works.subtitle":
-      "The key technologies that make laser-based hearing possible",
+      "The key technologies that make laser  based hearing possible",
     "tech.laser.stimulation": "Laser Stimulation",
     "tech.laser.desc":
-      "Uses safe, low-power laser light to stimulate the eardrum and middle-ear structures, generating mechanical vibrations that the inner ear converts into auditory signals.",
-    "tech.bone.conduction": "Bone-Conduction Integration",
+      "Uses safe, low  power laser light to stimulate the eardrum and middle  ear structures, generating mechanical vibrations that the inner ear converts into auditory signals.",
+    "tech.bone.conduction": "Bone  Conduction Integration",
     "tech.bone.desc":
-      "Combines laser stimulation with bone-conduction pathways, helping sound reach the cochlea through multiple natural routes to improve clarity and perception.",
-    "tech.non.invasive": "Non-Invasive Design",
+      "Combines laser stimulation with bone  conduction pathways, helping sound reach the cochlea through multiple natural routes to improve clarity and perception.",
+    "tech.non.invasive": "Non  Invasive Design",
     "tech.non.invasive.desc":
       "A fully external device that requires no surgery or implantation. The laser is precisely positioned to target the optimal stimulation point on the ear anatomy.",
     "tech.digital.processing": "Digital Signal Processing",
@@ -509,7 +509,7 @@ const translations = {
     "tech.breakthrough.p2":
       "This breakthrough is the result of years of research at Saarland University Hospital, combining expertise in ENT medicine, photonics, and biomedical engineering. Our interdisciplinary team has developed a device that is both scientifically advanced and practically applicable.",
     "tech.breakthrough.p3":
-      "Early tests indicate users experience significantly improved sound quality, reduced feedback, and a more natural listening sensation compared with conventional hearing aids. The technology is particularly effective for conductive hearing loss and middle-ear conditions.",
+      "Early tests indicate users experience significantly improved sound quality, reduced feedback, and a more natural listening sensation compared with conventional hearing aids. The technology is particularly effective for conductive hearing loss and middle  ear conditions.",
     "tech.research.development": "Research & Development",
     "tech.research.intro":
       "Project LAHA is an ongoing research initiative at Saarland University Hospital, supported by academic grants and institutional resources. Our work advances both clinical applications and fundamental understanding of optoacoustic phenomena in the human ear.",
@@ -525,22 +525,22 @@ const translations = {
     "tech.focus2":
       "Precision targeting systems for accurate laser positioning on the eardrum",
     "tech.focus3":
-      "Integration of laser and bone-conduction pathways for hybrid hearing solutions",
+      "Integration of laser and bone  conduction pathways for hybrid hearing solutions",
     "tech.focus4":
       "Clinical studies with patients experiencing conductive and sensorineural hearing loss",
     "tech.focus5":
       "Miniaturization of laser components for comfortable wearable designs",
     "tech.focus6":
-      "Long-term effectiveness studies and user-experience optimization",
+      "Long  term effectiveness studies and user  experience optimization",
     "tech.specs.overview": "Technical Overview",
     "tech.spec.method": "Stimulation method",
-    "tech.spec.method.value": "Class 1 low-power laser",
+    "tech.spec.method.value": "Class 1 low  power laser",
     "tech.spec.target": "Target area",
     "tech.spec.target.value": "Eardrum & ossicles",
     "tech.spec.delivery": "Delivery system",
-    "tech.spec.delivery.value": "Laser + bone-conduction hybrid",
+    "tech.spec.delivery.value": "Laser + bone  conduction hybrid",
     "tech.spec.safety": "Safety classification",
-    "tech.spec.safety.value": "Non-invasive, CE pending",
+    "tech.spec.safety.value": "Non  invasive, CE pending",
     "tech.spec.processing": "Sound processing",
     "tech.spec.processing.value": "Digital audio to laser modulation",
     "tech.spec.application": "Application",
@@ -569,12 +569,12 @@ const translations = {
     "products.hero.title": "Laser Hearing Aid System",
     "products.hero.subtitle": "Under Development",
     "products.hero.description":
-      "A laser-based hearing system that generates sound directly at the eardrum—precise, comfortable, and gentle for sensitive ears.",
+      "A laser  based hearing system that generates sound directly at the eardrum—precise, comfortable, and gentle for sensitive ears.",
     "products.status.title": "Development Status",
     "products.status.current": "Current stage",
     "products.status.current.text": "Laboratory prototype (portable version)",
     "products.status.next": "Next phase",
-    "products.status.next.text": "Wearable, battery-powered prototype",
+    "products.status.next.text": "Wearable, battery  powered prototype",
     "products.what.title": "What Makes It Special",
     "products.feature1":
       "Unique, patented laser technology for direct sound generation",
@@ -593,7 +593,7 @@ const translations = {
     "products.specs.title": "Technical Specifications",
     "products.disclaimer.title": "Medical Notice",
     "products.disclaimer.text":
-      "The LAHA system is a research prototype under development. It is not yet CE-certified or approved for commercial use. All specifications are preliminary and subject to change.",
+      "The LAHA system is a research prototype under development. It is not yet CE  certified or approved for commercial use. All specifications are preliminary and subject to change.",
     "products.cert.title": "Regulatory Status",
     "products.cert1": "Patent: Light activated hearing device (WO2010086453A1)",
     "products.cert2": "CE certification in preparation",
@@ -604,13 +604,13 @@ const translations = {
     // About Page
     "about.hero.title": "About Project LAHA",
     "about.hero.description":
-      "Project LAHA – Laser Hearing Aids is a groundbreaking research initiative at Saarland University Hospital developing a revolutionary laser-based hearing aid that directly stimulates the eardrum and middle-ear structures. We are pioneering the future of hearing technology through innovative research and medical device development.",
+      "Project LAHA – Laser Hearing Aids is a groundbreaking research initiative at Saarland University Hospital developing a revolutionary laser  based hearing aid that directly stimulates the eardrum and middle  ear structures. We are pioneering the future of hearing technology through innovative research and medical device development.",
     "about.mission.title": "Our Mission",
     "about.mission.text":
-      "To revolutionize hearing aid technology by developing a non-invasive, laser-based solution that offers superior sound quality, enhanced comfort, and an improved user experience for individuals with hearing loss.",
+      "To revolutionize hearing aid technology by developing a non  invasive, laser  based solution that offers superior sound quality, enhanced comfort, and an improved user experience for individuals with hearing loss.",
     "about.story.title": "Our Story",
     "about.story.p1":
-      "Project LAHA was founded at Saarland University Hospital, where a team of dedicated researchers and medical professionals recognized the limitations of conventional hearing aids. Traditional devices rely on external microphones and speakers that can be uncomfortable, visible, and susceptible to environmental interference. We envisioned a better solution—one that uses laser technology to directly stimulate the eardrum and middle-ear structures.",
+      "Project LAHA was founded at Saarland University Hospital, where a team of dedicated researchers and medical professionals recognized the limitations of conventional hearing aids. Traditional devices rely on external microphones and speakers that can be uncomfortable, visible, and susceptible to environmental interference. We envisioned a better solution—one that uses laser technology to directly stimulate the eardrum and middle  ear structures.",
     "about.story.p2":
       "Our research has focused on developing a prototype device that transmits sound via laser light, bypassing traditional acoustic transduction methods. This approach offers the potential for clearer sound, improved speech recognition in noisy environments, and a more discreet, comfortable user experience. We are currently conducting initial testing and preparing clinical studies for regulatory approval.",
     "about.story.p3":
@@ -624,7 +624,7 @@ const translations = {
     "about.value2.title": "Scientific Rigor",
     "about.value2.desc":
       "Conducting thorough research and clinical studies to the highest medical and regulatory standards",
-    "about.value3.title": "Patient-Centered",
+    "about.value3.title": "Patient  Centered",
     "about.value3.desc":
       "Focusing on comfort, discretion, and quality of life for people with hearing loss",
     "about.location.title": "Our Research Center",
@@ -643,7 +643,7 @@ const translations = {
     "about.timeline.title": "Our Research Journey",
     "about.timeline.2020.title": "Project Initiation",
     "about.timeline.2020.desc":
-      "Research began at Saarland University Hospital exploring laser-based hearing aid concepts",
+      "Research began at Saarland University Hospital exploring laser  based hearing aid concepts",
     "about.timeline.2022.title": "Prototype Development",
     "about.timeline.2022.desc":
       "First functional laser hearing aid prototype developed and initial laboratory testing conducted",
@@ -662,7 +662,7 @@ const translations = {
     // Investors Page
     "investors.hero.title": "Research & Investment Opportunity",
     "investors.hero.description":
-      "Project LAHA represents a groundbreaking approach to hearing restoration through laser technology. As a university-based research initiative at Saarland University Hospital, we are developing the world’s first laser-based hearing aid system.",
+      "Project LAHA represents a groundbreaking approach to hearing restoration through laser technology. As a university  based research initiative at Saarland University Hospital, we are developing the world’s first laser  based hearing aid system.",
     "investors.highlights.title": "Project Highlights",
     "investors.highlight1.label": "Research phase",
     "investors.highlight1.value": "Advanced",
@@ -675,17 +675,17 @@ const translations = {
     "investors.highlight3.period": "Global hearing aids",
     "investors.highlight4.label": "Innovation",
     "investors.highlight4.value": "World first",
-    "investors.highlight4.period": "Laser-based system",
+    "investors.highlight4.period": "Laser  based system",
     "investors.opportunities.title": "Investment & Partnership Opportunities",
     "investors.opp1.title": "Growing Global Market",
     "investors.opp1.desc":
       "The global hearing aid market is projected to exceed €10 billion, driven by aging populations and increasing awareness of hearing health. Project LAHA offers a revolutionary alternative to traditional acoustic devices.",
     "investors.opp2.title": "Breakthrough Technology",
     "investors.opp2.desc":
-      "Our proprietary laser stimulation technology directly vibrates the eardrum and middle-ear structures, bypassing limitations of conventional hearing aids. This represents a paradigm shift in hearing restoration.",
+      "Our proprietary laser stimulation technology directly vibrates the eardrum and middle  ear structures, bypassing limitations of conventional hearing aids. This represents a paradigm shift in hearing restoration.",
     "investors.opp3.title": "Strong Academic Foundation",
     "investors.opp3.desc":
-      "Based at Saarland University Hospital, our research combines cutting-edge biomedical engineering with clinical expertise. We benefit from world-class facilities and experienced research teams.",
+      "Based at Saarland University Hospital, our research combines cutting  edge biomedical engineering with clinical expertise. We benefit from world  class facilities and experienced research teams.",
     "investors.opp4.title": "Clear Path to Market",
     "investors.opp4.desc":
       "We are progressing through systematic development phases toward CE certification and clinical studies. Strategic partnerships can accelerate commercialization and bring this innovation to patients worldwide.",
@@ -694,7 +694,7 @@ const translations = {
     "investors.status.institution": "Institution",
     "investors.status.institution.value": "Saarland University Hospital",
     "investors.status.project.name": "Project name",
-    "investors.status.project.value": "LAHA - Laser Hearing Aids",
+    "investors.status.project.value": "LAHA    Laser Hearing Aids",
     "investors.status.technology": "Technology",
     "investors.status.technology.value": "Laser stimulation system",
     "investors.status.category": "Category",
@@ -703,7 +703,7 @@ const translations = {
     "investors.status.current": "Current stage",
     "investors.status.current.value": "Prototype development",
     "investors.status.next": "Next milestone",
-    "investors.status.next.value": "Pre-clinical testing",
+    "investors.status.next.value": "Pre  clinical testing",
     "investors.status.target": "Target",
     "investors.status.target.value": "CE certification",
     "investors.status.timeline": "Timeline",
@@ -735,7 +735,7 @@ const translations = {
     "investors.event3.title": "Academic Publications & Symposia",
     "investors.event3.date": "Ongoing",
     "investors.event3.desc":
-      "Regular publication of research findings in peer-reviewed journals and presentations at scientific conferences to share progress with the medical community.",
+      "Regular publication of research findings in peer  reviewed journals and presentations at scientific conferences to share progress with the medical community.",
     "investors.contact.title": "Partnership & Investment Inquiries",
     "investors.contact.description":
       "For partnership opportunities, investment inquiries, or detailed project information, please contact our research coordination team.",
@@ -751,9 +751,9 @@ const translations = {
     // Contact Page
     "contact.hero.title": "Contact Project LAHA",
     "contact.hero.description":
-      "Questions about our laser hearing-aid research? We are here to connect with researchers, potential partners, and interested parties.",
+      "Questions about our laser hearing  aid research? We are here to connect with researchers, potential partners, and interested parties.",
     "contact.methods.research.title": "Research Inquiries",
-    "contact.methods.research.email": "Email: projekt-laha@uni-saarland.de",
+    "contact.methods.research.email": "Email: projekt  laha@uni  saarland.de",
     "contact.methods.research.hours": "Mon–Fri: 09:00 – 17:00 CET",
     "contact.methods.research.type": "Research & Development",
     "contact.methods.direct.title": "Direct Contact",
@@ -761,7 +761,7 @@ const translations = {
     "contact.methods.direct.hours": "Mon–Fri: 09:00 – 17:00 CET",
     "contact.methods.direct.email": "Email: Larissa.Schatteburg@uks.eu",
     "contact.methods.partnership.title": "Partnership",
-    "contact.methods.partnership.email": "Email: projekt-laha@uni-saarland.de",
+    "contact.methods.partnership.email": "Email: projekt  laha@uni  saarland.de",
     "contact.methods.partnership.hours": "By appointment only",
     "contact.methods.partnership.type": "Collaboration opportunities",
     "contact.form.title": "Send Us a Message",
@@ -781,7 +781,7 @@ const translations = {
     "contact.form.message": "Message",
     "contact.form.submit": "Send message",
     "contact.form.gdpr":
-      "By submitting this form, you agree to our GDPR-compliant data protection policy",
+      "By submitting this form, you agree to our GDPR  compliant data protection policy",
     "contact.location.title": "Our Location",
     "contact.location.research.title": "Research Center",
     "contact.location.research.badge": "Main office",
@@ -801,10 +801,10 @@ const translations = {
     "contact.location.lead.note":
       "For research collaboration and partnership inquiries",
     "contact.location.social.title": "Connect With Us (Coming Soon)",
-    "contact.location.social.linkedin": "LinkedIn - Project updates",
+    "contact.location.social.linkedin": "LinkedIn    Project updates",
     "contact.location.social.researchgate":
-      "ResearchGate - Scientific publications",
-    "contact.location.social.youtube": "YouTube - Explainer videos",
+      "ResearchGate    Scientific publications",
+    "contact.location.social.youtube": "YouTube    Explainer videos",
     "contact.location.map.title": "Saarland University Hospital",
     "contact.location.map.subtitle": "Homburg / Saar, Germany",
     "contact.location.map.link": "View on Google Maps →",
@@ -823,7 +823,7 @@ const translations = {
       "No. The LAHA system is currently in the research and development phase. It is not yet commercially available or approved for clinical use. We will update our website as we progress toward CE certification and market availability.",
     "contact.faq.q4.question": "How can I collaborate on this research?",
     "contact.faq.q4.answer":
-      "We welcome collaboration inquiries from academic institutions, research organizations, and industry partners. Please contact us at projekt-laha@uni-saarland.de with details about your interests and expertise.",
+      "We welcome collaboration inquiries from academic institutions, research organizations, and industry partners. Please contact us at projekt  laha@uni  saarland.de with details about your interests and expertise.",
     "contact.faq.q5.question":
       "Do you offer support in languages other than English and German?",
     "contact.faq.q5.answer":
@@ -834,7 +834,7 @@ const translations = {
     "contact.gdpr.p1":
       "Personal data (e.g., names, email addresses) collected via contact forms is used only for communication related to Project LAHA and is not shared with third parties.",
     "contact.gdpr.p2":
-      'We follow the "data minimization" principle and use only necessary cookies (no tracking without consent). Our website is hosted on EU-based servers for compliance and security.',
+      'We follow the "data minimization" principle and use only necessary cookies (no tracking without consent). Our website is hosted on EU  based servers for compliance and security.',
     "contact.gdpr.p3":
       "You can request deletion of your data at any time by emailing",
     "contact.disclaimer.title": "Medical Disclaimer",
