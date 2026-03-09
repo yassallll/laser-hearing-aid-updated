@@ -255,7 +255,7 @@ export default function ContactPage() {
 
                   {status === "error" && (
                     <div className="p-4 bg-red-50 border border-red-200 rounded-md text-red-800 text-sm text-center">
-                      Something went wrong. Please try again or email us directly at   svme001@teams.uni-saarland.de
+                      Something went wrong. Please try again or email us directly at  yassalarifbutt@gmail.com
                     </div>
                   )}
 
@@ -291,7 +291,7 @@ export default function ContactPage() {
                         </p>
                         <p className="text-sm">
                           <span className="font-medium">{t("contact.location.research.email")}:</span>{" "}
-                            svme001@teams.uni-saarland.de
+                           yassalarifbutt@gmail.com
                         </p>
                         <p className="text-sm">
                           <span className="font-medium">{t("contact.location.research.hours")}:</span>{" "}
@@ -406,8 +406,8 @@ export default function ContactPage() {
               <p>{t("contact.gdpr.p2")}</p>
               <p>
                 {t("contact.gdpr.p3")}{" "}
-                <a href="mailto:  svme001@teams.uni-saarland.de" className="text-primary hover:underline">
-                    svme001@teams.uni-saarland.de
+                <a href="mailto: yassalarifbutt@gmail.com" className="text-primary hover:underline">
+                   yassalarifbutt@gmail.com
                 </a>
               </p>
             </div>
