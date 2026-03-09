@@ -199,7 +199,7 @@ export default function ContactPage() {
                         value={formData.phone}
                         onChange={handleChange}
                         className="w-full px-4 py-3 rounded-md border border-border bg-background focus:outline-none focus:ring-2 focus:ring-primary"
-                        placeholder="+1 (XXX) XXX-XXXX"
+                        placeholder="+49 xxx xxxx xxxx"
                       />
                     </div>
                   </div>
@@ -255,7 +255,7 @@ export default function ContactPage() {
 
                   {status === "error" && (
                     <div className="p-4 bg-red-50 border border-red-200 rounded-md text-red-800 text-sm text-center">
-                      Something went wrong. Please try again or email us directly at projekt-laha@uni-saarland.de
+                      Something went wrong. Please try again or email us directly at   yassalarifbutt@gmail.com
                     </div>
                   )}
 
@@ -291,7 +291,7 @@ export default function ContactPage() {
                         </p>
                         <p className="text-sm">
                           <span className="font-medium">{t("contact.location.research.email")}:</span>{" "}
-                          projekt-laha@uni-saarland.de
+                            yassalarifbutt@gmail.com
                         </p>
                         <p className="text-sm">
                           <span className="font-medium">{t("contact.location.research.hours")}:</span>{" "}
@@ -406,8 +406,8 @@ export default function ContactPage() {
               <p>{t("contact.gdpr.p2")}</p>
               <p>
                 {t("contact.gdpr.p3")}{" "}
-                <a href="mailto:projekt-laha@uni-saarland.de" className="text-primary hover:underline">
-                  projekt-laha@uni-saarland.de
+                <a href="mailto:  yassalarifbutt@gmail.com" className="text-primary hover:underline">
+                    yassalarifbutt@gmail.com
                 </a>
               </p>
             </div>
