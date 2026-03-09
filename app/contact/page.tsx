@@ -25,7 +25,7 @@ export default function ContactPage() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          access_key: process.env.NEXT_PUBLIC_WEB3FORMS_KEY!,
+          access_key: process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY ?? process.env.NEXT_PUBLIC_WEB3FORMS_KEY ?? "",
           subject: formData.subject || `[${formData.inquiryType}] Contact from LAHA website`,
           from_name: formData.name,
           email: formData.email,
@@ -132,6 +132,7 @@ export default function ContactPage() {
                 </div>
 
                 <form onSubmit={handleSubmit} className="space-y-6">
+                  <input type="hidden" name="access_key" value={process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY ?? ""} />
                   {/* Inquiry Type */}
                   <div className="space-y-2">
                     <label htmlFor="inquiryType" className="block text-sm font-medium">
