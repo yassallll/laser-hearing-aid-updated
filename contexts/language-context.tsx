@@ -23,7 +23,7 @@ const translations = {
     "nav.contact": "Kontakt",
 
     // Home Page
-    "home.hero.title": "Hören mit Licht",
+    "home.hero.title": "Hören mit Licht: ",
     "home.hero.subtitle": "",
     "home.hero.description":
       "Projekt LAHA entwickelt ein neuartiges, laserbasiertes Hörsystem, das Schall direkt am Trommelfell erzeugt ohne Lautsprecher, ohne Druckgefühl.",
