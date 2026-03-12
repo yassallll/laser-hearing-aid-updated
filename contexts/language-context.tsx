@@ -323,7 +323,7 @@ const translations = {
     "contact.hero.description":
       "Haben Sie Fragen zu unserer Laser  Hörgeräte  Forschung? Wir sind hier, um mit Forschern, potenziellen Partnern und Interessenten in Kontakt zu treten.",
     "contact.methods.research.title": "Forschungsanfragen",
-    "contact.methods.research.email": "E  Mail: projekt  laha@uni  saarland.de",
+    "contact.methods.research.email": "E  Mail: projekt-laha@uni-saarland.de",
     "contact.methods.research.hours": "Mo  Fr: 09:00    17:00 MEZ",
     "contact.methods.research.type": "Forschung & Entwicklung",
     "contact.methods.direct.title": "Direkter Kontakt",
@@ -331,7 +331,7 @@ const translations = {
     "contact.methods.direct.hours": "Mo  Fr: 09:00    17:00 MEZ",
     "contact.methods.direct.email": "E  Mail: Larissa.Schatteburg@uks.eu",
     "contact.methods.partnership.title": "Partnerschaft",
-    "contact.methods.partnership.email": "E  Mail: projekt  laha@uni  saarland.de",
+    "contact.methods.partnership.email": "E  Mail: projekt-laha@uni-saarland.de",
     "contact.methods.partnership.hours": "Nur nach Vereinbarung",
     "contact.methods.partnership.type": "Kooperationsmöglichkeiten",
     "contact.form.title": "Senden Sie uns eine Nachricht",
